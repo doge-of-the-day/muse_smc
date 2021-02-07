@@ -4,8 +4,8 @@
 #include <muse_smc/smc/traits/sample.hpp>
 #include <muse_smc/smc/traits/sample_set.hpp>
 
-#include <muse_smc/smc/request_state_initilization.hpp>
-#include <muse_smc/smc/request_uniform_initilization.hpp>
+#include <muse_smc/request/request_state_initilization.hpp>
+#include <muse_smc/request/request_uniform_initilization.hpp>
 
 namespace muse_smc {
 namespace traits {

@@ -47,7 +47,7 @@ class StateSpace {
   StateSpace() = delete;
 
   std::string frame_;
-  time_t stamp_{time_t::now()};
+  time_t stamp_;
 };
 }  // namespace muse_smc
 
